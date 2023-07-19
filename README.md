@@ -1,5 +1,3 @@
-# DateAndTimePicker
-
 ![Frame 34419](https://github.com/MariaLuiza-CS/DateAndTimePicker/assets/62726677/b42bf10b-007a-434b-ae79-d260674a9344)
 
 Hello, amazing person of the internet! Hope you’re doing well.
