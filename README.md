@@ -1,19 +1,20 @@
 <div align="center">
   
-![Frame 34419](https://github.com/MariaLuiza-CS/DateAndTimePicker/assets/62726677/b42bf10b-007a-434b-ae79-d260674a9344)
+![Frame 34421 (1)](https://github.com/MariaLuiza-CS/DateAndTimePicker/assets/62726677/1557b860-9ea0-4165-abb7-cc6d398fd172)
 
 </div>
 
 Hello, amazing person of the internet! Hope you’re doing well.
 
-In today's world, where every second counts, managing dates and times efficiently in our app has become crucial.
+The first impressions are crucial. Creating a captivating user experience from the moment an app is launched has become a top priority. Users expect seamless, engaging interactions right from the start, and this is where the Splash Screen API, combined with the cutting-edge Jetpack Compose, takes center stage.
 
 So let's learn how we can develop that! ❤
 
-Check out my [post on Medium here](https://medium.com/@MariaLuiza-CS/date-and-time-picker-with-compose-9cadc4f50e6d) to see how to implement and use that.
+Check out my [post on Medium here](https://medium.com/@MariaLuiza-CS/splash-screen-api-with-jetpack-compose-9001c561b9c8) to see how to implement and use that.
 
 <div align="center">
   
-![giphy (15)](https://github.com/MariaLuiza-CS/DateAndTimePicker/assets/62726677/5cbe84db-0b64-4ba5-8fbe-eeac8339cafc)
+![1_q_rGcXDtzCwpAduuRhv74Q](https://github.com/MariaLuiza-CS/DateAndTimePicker/assets/62726677/a27b88d1-a651-47a4-a063-2b904390b695)
 
 </div>
+
